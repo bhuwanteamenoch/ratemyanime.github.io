@@ -6,16 +6,16 @@ permalink: /privacy/
 
 # Privacy Policy — Rate My Anime
 
-**Effective date:** [DATE WHEN PUBLISHED]
-**Last updated:** [DATE WHEN PUBLISHED]
+**Effective date:** "May 20, 2026"
+**Last updated:** "May 20, 2026"
 
 ## Introduction
 
 This Privacy Policy describes how Rate My Anime ("the App", "we", "us") collects, uses, and shares information when you use our mobile application.
 
-Rate My Anime is operated by [YOUR FULL NAME], based in Nepal. By using the App, you agree to the practices described in this policy.
+Rate My Anime is operated by Bhuwan Shrestha, based in Nepal. By using the App, you agree to the practices described in this policy.
 
-If you have any questions, contact us at: **[YOUR_CONTACT_EMAIL]**
+If you have any questions, contact us at: **bhuwanenoch@gmail.com**
 
 ## What information we collect
 
@@ -102,13 +102,13 @@ Depending on where you live, you may have rights regarding your personal data, i
 - **Opt-out:** of personalized ads (see "Advertising" section).
 - **Withdraw consent:** for processing where consent is the basis.
 
-To exercise any of these rights, email **[YOUR_CONTACT_EMAIL]**. We respond within 30 days.
+To exercise any of these rights, email **bhuwanenoch@gmail.com**. We respond within 30 days.
 
 If you are in the EU/UK, you have additional rights under GDPR/UK-GDPR including the right to lodge a complaint with your local data protection authority. If you are in California, you have additional rights under the CCPA/CPRA.
 
 ## Children's privacy
 
-Rate My Anime is not intended for users under the age of 13. We do not knowingly collect information from children under 13. If you believe we have collected information from a child under 13, please contact us at **[YOUR_CONTACT_EMAIL]** and we will delete it promptly.
+Rate My Anime is not intended for users under the age of 13. We do not knowingly collect information from children under 13. If you believe we have collected information from a child under 13, please contact us at **bhuwanenoch@gmail.com** and we will delete it promptly.
 
 For users between 13 and 18, parental guidance is recommended, particularly for social features (feeds, messaging, comments).
 
@@ -134,10 +134,10 @@ Your continued use of the App after changes are posted constitutes acceptance of
 
 For any privacy-related questions, requests, or concerns, contact:
 
-**[YOUR FULL NAME]**
-Email: **[YOUR_CONTACT_EMAIL]**
+**Bhuwan Shrestha**
+Email: **bhuwanenoch@gmail.com**
 Based in: Nepal
 
 ---
 
-*Anime metadata in Rate My Anime is provided by [AniList](https://anilist.co), used under their public API terms.*
+_Anime metadata in Rate My Anime is provided by [AniList](https://anilist.co), used under their public API terms._

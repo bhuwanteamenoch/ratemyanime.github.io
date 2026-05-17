@@ -20,4 +20,4 @@ Coming soon to Google Play.
 ## Contact
 
 For questions, support, or privacy requests:
-**[YOUR_CONTACT_EMAIL]**
+**bhuwanenoch@gmail.com**

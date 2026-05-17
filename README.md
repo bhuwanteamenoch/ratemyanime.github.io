@@ -1,6 +1,7 @@
 # Rate My Anime — Static Site
 
 Two-page static site for Play Store compliance:
+
 - `/privacy/` — Privacy Policy
 - `/delete-account/` — Account deletion instructions
 
@@ -10,9 +11,9 @@ Built with Jekyll, deployed via GitHub Pages.
 
 The following `[BRACKETED]` values appear throughout the Markdown files. Replace them:
 
-- `[YOUR FULL NAME]` — your real legal name as the operator
-- `[YOUR_CONTACT_EMAIL]` — your privacy/support contact email
-- `[DATE WHEN PUBLISHED]` — the effective date (e.g. "May 20, 2026")
+- `Bhuwan Shrestha` — your real legal name as the operator
+- `bhuwanenoch@gmail.com` — your privacy/support contact email
+- `"May 20, 2026"` — the effective date
 
 Search-and-replace across all files works:
 
@@ -70,6 +71,7 @@ These are the URLs you'll paste into Play Console.
 6. Wait for DNS propagation (5-60 min). HTTPS is auto-provisioned.
 
 Final URLs would be:
+
 - `https://ratemyanime.com/privacy/`
 - `https://ratemyanime.com/delete-account/`
 

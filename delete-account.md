@@ -23,7 +23,7 @@ Your account will be marked for deletion immediately. No further action is requi
 
 If you no longer have access to the app, or prefer email, send a deletion request to:
 
-**[YOUR_CONTACT_EMAIL]**
+**bhuwanenoch@gmail.com**
 
 Include the following in your message:
 
@@ -76,7 +76,7 @@ We cannot cancel your subscription on your behalf — Google manages this direct
 
 If you have questions about deleting your account, the deletion process, or what data we retain, contact:
 
-**[YOUR FULL NAME]**
-Email: **[YOUR_CONTACT_EMAIL]**
+**Bhuwan Shrestha**
+Email: **bhuwanenoch@gmail.com**
 
 See also our [Privacy Policy](/privacy/) for full details on how we handle your data.
