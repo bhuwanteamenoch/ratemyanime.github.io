@@ -1,0 +1,27 @@
+title: Rate My Anime
+description: Anime tracker, ratings, reviews, social feed, and airing schedule — all in one.
+url: "" # set to your custom domain when configured, e.g. "https://ratemyanime.com"
+
+# Use Jekyll's default minima theme — included on GitHub Pages, no setup needed.
+theme: minima
+
+# Clean URLs without .html extension
+permalink: /:title/
+
+# Plugins that GitHub Pages allows by default
+plugins:
+  - jekyll-seo-tag
+
+# Don't process these
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+
+# SEO defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
