@@ -14,8 +14,8 @@ Coming soon to Google Play.
 
 ## Information
 
-- [Privacy Policy](/privacy/)
-- [Delete your account](/delete-account/)
+- [Privacy Policy](https://bhuwanteamenoch.github.io/ratemyanime.github.io//privacy/)
+- [Delete your account]([/delete-account/](https://bhuwanteamenoch.github.io/ratemyanime.github.io/delete-account/))
 
 ## Contact
 
